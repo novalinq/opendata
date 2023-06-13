@@ -12,9 +12,12 @@ One of the nicest data sets out there to work with. We offer this dataset in two
 
 This version of the Titanic is much like the one shared by Kaggle for the [learning from disaster competition](https://www.kaggle.com/competitions/titanic). However, this one has slightly more columns and it has a complete survived column -- which is nice if you want to score 100% in the competition 😈
 
+- 💽 Titanic:   📄 [wiki]() 🔗 [link](https://raw.githubusercontent.com/novalinq/opendata/main/datasets/titanic/titanic_original/titanic.csv)
+
 ### An enhanced Titanic
 
-Since there is much more to know about the Titanic passengers, than is shared in the original dataset, we've collected extra information from Wikipedia and other sources to extend the schema. Our version has the following tables:
+Since there is much more to know about the Titanic passengers than is shared in the original dataset, we've invested some spare time to collected extra information from Wikipedia and other sources to extend the schema. 
+Our version has the following tables:
 
 - passengers
 - tickets
