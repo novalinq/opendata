@@ -26,3 +26,4 @@ Icon\
 .RDataTmp\
 .Renviron\
 }
+.DS_Store
